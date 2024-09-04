@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"a1820bdda030585d","x":-460,"y":-240,"width":2240,"height":530,"type":"group","label":"old way"},
+		{"id":"6cd17d8c9f2d7ec4","type":"group","x":400,"y":-220,"width":440,"height":220,"label":"lang"},
+		{"id":"30ac3719187a9897","type":"group","x":1460,"y":-160,"width":300,"height":160,"label":"web page"},
+		{"id":"e8622fb699638d79","type":"text","text":"View","x":-440,"y":-220,"width":250,"height":60},
+		{"id":"26627e603571856f","type":"text","text":"Data","x":-440,"y":-60,"width":250,"height":60},
+		{"id":"679a5e1ad315ba58","type":"text","text":"Render \nweb page","x":40,"y":-160,"width":250,"height":60},
+		{"id":"3a7d3f1cb44e8d5f","type":"text","text":"HTML","x":460,"y":-200,"width":130,"height":60},
+		{"id":"c3c650c2b14f356a","type":"text","text":"CSS","x":630,"y":-200,"width":170,"height":60},
+		{"id":"82007a03a7f68310","type":"text","text":"JS","x":505,"y":-80,"width":210,"height":50},
+		{"id":"8310f192dca99c53","type":"text","text":"Browser","x":1020,"y":-130,"width":250,"height":60},
+		{"id":"4d730c9082619b4d","type":"text","text":"","x":1480,"y":-140,"width":60,"height":50},
+		{"id":"90b732cd5a69de98","type":"text","text":"","x":1580,"y":-140,"width":160,"height":50},
+		{"id":"73a2d458e4095a22","type":"text","text":"","x":1580,"y":-70,"width":160,"height":50},
+		{"id":"5e97c1c1db4fc033","type":"text","text":"Server side rendering","x":588,"y":210,"width":250,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"8c24f1bc13d125b6","fromNode":"e8622fb699638d79","fromSide":"right","toNode":"679a5e1ad315ba58","toSide":"left"},
+		{"id":"2f2cae269ac36337","fromNode":"26627e603571856f","fromSide":"right","toNode":"679a5e1ad315ba58","toSide":"left"},
+		{"id":"2560472740694811","fromNode":"679a5e1ad315ba58","fromSide":"right","toNode":"6cd17d8c9f2d7ec4","toSide":"left"},
+		{"id":"9ebfbfdf50c91dd4","fromNode":"6cd17d8c9f2d7ec4","fromSide":"right","toNode":"8310f192dca99c53","toSide":"left"},
+		{"id":"ce5c120251a333aa","fromNode":"8310f192dca99c53","fromSide":"right","toNode":"30ac3719187a9897","toSide":"left"}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"a3e2cac201e6ab8a","x":-360,"y":-140,"width":415,"height":260,"type":"group","label":"multiple components"},
+		{"id":"a0c1bfb46aff3b1d","x":-340,"y":-120,"width":250,"height":60,"type":"text","text":"Components 1"},
+		{"id":"ee0a2ad66f884e77","type":"text","text":"Components 2","x":-280,"y":-40,"width":250,"height":60},
+		{"id":"e45b52f68a880d96","type":"text","text":"Components 3","x":-215,"y":40,"width":250,"height":60},
+		{"id":"918a623ea65576ae","x":413,"y":-38,"width":250,"height":60,"type":"text","text":"React"},
+		{"id":"9b0efae6b22baf87","x":798,"y":-36,"width":250,"height":60,"type":"text","text":"Web page"}
+	],
+	"edges":[
+		{"id":"59badca6158c83b0","fromNode":"a3e2cac201e6ab8a","fromSide":"right","toNode":"918a623ea65576ae","toSide":"left"},
+		{"id":"dd30ff31b39b2684","fromNode":"918a623ea65576ae","fromSide":"right","toNode":"9b0efae6b22baf87","toSide":"left"}
+	]
+}
