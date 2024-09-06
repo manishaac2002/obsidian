@@ -1,0 +1,7 @@
+- Declarative syntax.(Based on current data)
+- Components return a block of JSX.
+- Java Script, HTML, CSS and react components.
+- (extension of java script)
+- Each JSX element converted into react create element function call.
+- react have babel to convert.
+- we should use react without JSX.
