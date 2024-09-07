@@ -15,3 +15,4 @@ function Header(){
 - Components can be **reused**, **nested** and can **pass data** between them.
 
 ![[component tree.png]]
+
