@@ -1,2 +1,4 @@
-1.[[Basics]]
-2.[[React app vs vite]]
+- [[Basics]]
+- [[React app vs vite]]
+- [[Core concepts index]]
+

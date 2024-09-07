@@ -1,4 +1,5 @@
-- [[Components]], Props, JSX
+- [[Components]], [[Props]], [[JSX]]
+- [[Separation of concerns]]
 - Creating and reusing components
 - Rendering Lists
 - Conditional rendering
