@@ -10,5 +10,4 @@
 **Multiple use props**
 ![[Multiple use props.png]]
 
-Props actually looks like below mentioned pic ,so the flow  of data within that props are applied in component.
-![[props are read onlt.png]]
+Props actually looks like below mentioned pic ,so the flow  of data within that props are applied in component.[[props are read-only.png]]
