@@ -28,5 +28,9 @@ React is JavaScript library for building user interface. And lets the importance
 ### JavaScript Library
 #####   Is a react library or framework?
    - It is a library and even called as framework
-   - Reason react itself called view layer
-   - 
+   - Reason react itself called view layer.
+
+#### How reloading just works on the react?
+- In nature in HTML behaviour the web page basically re loading for click events.
+- ==For example==, In form submission HTML generally reload the web page.
+- So in react we can avoid the reloading by using some tricks like event.
