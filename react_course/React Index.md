@@ -1,4 +1,3 @@
-- [[Basics]]
-- [[React app vs vite]]
+- [[React concepts index]]
 - [[Core concepts index]]
-
+- [[Use state Index]]

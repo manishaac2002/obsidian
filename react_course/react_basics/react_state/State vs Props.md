@@ -1,0 +1,2 @@
+![[state vs props.png]]
+
