@@ -1,7 +1,6 @@
 React created by **Jordan Walke** in 2011
 
 ![[react.png]]
-
 ### Why react ?
 By looking at this [[Old way.canvas|old way]] version rendering page for websites it seems to change the in [[Modern way.canvas|modern way]] now days. Observing that we can know the need for front-end framework.
 
