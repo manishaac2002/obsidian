@@ -7,7 +7,7 @@ function Header(){
 <h1> Hello React..!</h1>
 }
 ```
-
+#### Key features about components
 - React application is entirely made of components.
 - Components are building blocks of user interface.
 - Working model - data, logic, appearance. 
