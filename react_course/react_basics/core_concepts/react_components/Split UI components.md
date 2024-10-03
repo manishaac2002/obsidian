@@ -1,0 +1,2 @@
+Let us why should we do split the components in many or small.
+![[Screenshot from 2024-10-03 15-42-40.png]]![[Screenshot from 2024-10-03 15-44-38.png]]![[Screenshot from 2024-10-03 16-00-12.png]]![[Screenshot from 2024-10-03 16-04-43.png]]
