@@ -1,2 +1,3 @@
 - [[Props]]
 - [[Props drilling]]
+- [[Child props]]

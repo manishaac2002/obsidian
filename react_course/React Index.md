@@ -1,4 +1,4 @@
 - [[React concepts index]]
-- [[Core concepts index]]
+- [[Core concepts Index]]
 - [[Use state Index]]
-- [[React folder Index]]
+

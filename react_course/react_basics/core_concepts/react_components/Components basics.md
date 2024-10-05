@@ -1,12 +1,14 @@
 > [!NOTE]
-> Components function should start in capital letters like below mentioned example.
+>  This is example for how the component function use.
 
 ```
-
 function Header(){
 <h1> Hello React..!</h1>
 }
 ```
+
+> [!NOTE]
+> Components function should start in capital letters like above mentioned example. And **Header** is a component name.
 #### Key features about components
 - React application is entirely made of components.
 - Components are building blocks of user interface.
