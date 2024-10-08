@@ -12,3 +12,8 @@
 
 Props actually looks like below mentioned pic ,so the flow  of data within that props are applied in component.[[props are read-only.png]]
 
+Props as API
+
+![[Props as api.png]]
+
+Reusable component should be used for other consumers or developers can reuse component.

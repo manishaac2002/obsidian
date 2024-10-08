@@ -7,3 +7,6 @@ Children props are used here for 2 main component at same time for success messa
 ![[error message.png]]
 
 ![[composition.png]]
+
+It can be use in explicit using children props as shown below
+![[children explicit.png]]
