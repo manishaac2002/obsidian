@@ -1,8 +1,6 @@
 What is props drilling 
 Disadvantage of using props drilling
 Why we go for component composition
-
-
 #### **What is props drilling** 
 **Props drilling** refers to the process of passing data from a parent component to deeply nested child components through multiple layers of intermediate components
 

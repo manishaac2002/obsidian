@@ -1,4 +1,4 @@
-![[state.png]]
+![[wallet/react_course/images/state.png]]
 
 ### Controlled elements
 - Create piece of state.
